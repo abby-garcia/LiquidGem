@@ -1,0 +1,134 @@
+
+body{
+	background-color: #ececec;
+	padding-top: 25px;
+}
+
+
+nav{
+
+	padding-bottom: 20px;
+}
+
+nav ul{
+
+	float:right;
+}
+
+nav li {
+	display:inline-block;
+	margin: 0 20px;
+}
+
+
+
+a{
+	text-decoration: none;
+	color:#333333;
+}
+
+nav span{
+	display: inline-block;
+	font-family: cursive;
+	font-size: 25px;
+
+}
+
+
+i{
+	color:#f5afbe;
+}
+
+
+header span{
+	color:#f5afbe;
+	
+}
+
+header{
+	text-align: center;
+
+}
+
+.intro p {
+	text-align: center;
+}
+
+#sunset{
+	width: 99%;
+	padding: 0 5px;
+	text-align: center;
+	border-radius: 6px;
+	
+	}
+
+.info{
+	width:40%;
+	float:left;
+	margin-left: 7%;
+	text-align: left;
+}
+
+
+.info h3{
+	font-family: cursive;
+	color:#f5afbe;
+	text-align: center;
+}
+
+.photos{
+	display:inline-block;
+	text-align: center;
+}
+
+
+
+.photos img{
+	width: 100%;
+	
+	
+}
+
+.photoWithText{
+	
+	width: 20%;
+	display:inline-block;
+	padding: 0px 25px;
+
+}
+
+#footer{
+	display: block;
+}
+
+
+
+footer #contact{
+	background-color: black;
+	height: 200px;
+	height: 500px;
+
+}
+
+
+
+#contact h3{
+	color:#f5afbe;
+}
+
+
+#contact a{
+
+	color:d7d7d7;
+
+}
+
+#contact{
+	display: block;
+}
+
+#thanks
+	{text-align:center;
+
+	}
+
